@@ -15,7 +15,7 @@ O objetivo deste projeto é controlar um robô (e-puck) para que ele seja capaz 
 ## 📹 Demonstração (Vídeo)
 Confira o funcionamento do robô encontrando a caixa leve e executando a tarefa:
 
-### [CLIQUE AQUI PARA ASSISTIR AO VÍDEO DO PROJETO](LINK_DO_SEU_VIDEO_AQUI)
+### [CLIQUE AQUI PARA ASSISTIR AO VÍDEO DO PROJETO](https://github.com/z0mer/CC7711_Robotica/blob/main/RobozinhoFuncionando.mp4)
 
 ## ⚙️ Como funciona o Código
 O algoritmo foi desenvolvido em **C** e opera através de uma máquina de estados:
